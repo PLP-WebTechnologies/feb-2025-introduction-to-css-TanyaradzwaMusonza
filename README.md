@@ -35,7 +35,7 @@ Happy Coding! 💻✨
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Styled Page</title>
   <!-- Link to external CSS -->
-  <link rel="stylesheet" href="RR.css" />
+  <link rel="stylesheet" href="stye.css" />
 </head>
 <body>
   <h1 class="title">Welcome to My Page</h1>
